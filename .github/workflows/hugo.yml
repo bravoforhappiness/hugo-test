@@ -11,6 +11,11 @@ env:
   REPO_NAME: ${{ github.event.repository.name }}
   REPO_OWNER: ${{ github.repository_owner }}
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 jobs:
   deploy:
     runs-on: ubuntu-22.04
