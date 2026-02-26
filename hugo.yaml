@@ -1,42 +1,42 @@
-baseURL: https://bravoforhappiness/hugo-test.github.io
-title: Goldydocs
+ baseURL: https://bravoforhappiness/hugo-test.github.io
+ title: Goldydocs
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu slugorcontentbasename
 
 # Language settings
-contentDir: content/en
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+ contentDir: content/en
+ defaultContentLanguage: en
+ defaultContentLanguageInSubdir: false
 # Useful when translating.
-enableMissingTranslationPlaceholders: true
+ enableMissingTranslationPlaceholders: true
 
-enableRobotsTXT: true
+ enableRobotsTXT: true
 
 # Will give values to .Lastmod etc.
-enableGitInfo: true
+ enableGitInfo: true
 
 # Comment out to disable taxonomies in Docsy
 # disableKinds: [taxonomy]
 
 # You can add your own taxonomies
-taxonomies:
-  tag: tags
-  category: categories
+ taxonomies:
+   tag: tags
+   category: categories
 
 # Highlighting config
-pygmentsCodeFences: true
-pygmentsUseClasses: false
+ pygmentsCodeFences: true
+ pygmentsUseClasses: false
 # Use the new Chroma Go highlighter in Hugo.
-pygmentsUseClassic: false
+ pygmentsUseClassic: false
 # pygmentsOptions: "linenos=table"
 # See https://help.farbox.com/pygments.html
-pygmentsStyle: tango
+ pygmentsStyle: tango
 
-mediaTypes:
+ mediaTypes:
   text/redirects:
     delimiter: ''
 
-outputFormats:
+ outputFormats:
   redirects:
     baseName: _redirects
     isPlainText: true
@@ -44,22 +44,28 @@ outputFormats:
     root: true
 
 # Configure how URLs look like per section.
-permalinks:
+ permalinks:
   blog: /:section/:year/:month/:day/:slugorcontentbasename
 
 # Image processing configuration.
-imaging:
+ imaging:
   resampleFilter: CatmullRom
   quality: 75
   anchor: smart
 
 # Language configuration
-languages:
+ languages:
   en:
     languageName: English
     title: Goldydocs
     params:
       description: A Docsy example site
+  zh-cn:
+    languageName: 简体中文
+    contentDir: content/zh-cn
+    title: Delightdocs
+    params:
+      description: 一个以Docsy主题模板构建的hugo网站
   # cSpell:disable
   #'no':
   #  languageName: Norsk
@@ -80,7 +86,7 @@ languages:
   #    time_format_blog: 2006.01.02
   # cSpell:enable
 
-markup:
+ markup:
   goldmark:
     parser:
       attribute:
@@ -97,11 +103,11 @@ markup:
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
-outputs:
+ outputs:
   home: [HTML, print, RSS, redirects]
   section: [HTML, print, RSS]
 
-params:
+ params:
   taxonomy:
     # set taxonomyCloud = [] to hide taxonomy clouds
     taxonomyCloud: [tags, categories]
@@ -239,13 +245,13 @@ params:
         icon: fa fa-envelope
         desc: Discuss development issues around the project
 
-security:
+ security:
   funcs: # cspell:disable-line
     getenv: # cspell:disable-line
       # Netlify build env var
       - ^(BRANCH|BUILD_ID|COMMIT_REF|CONTEXT|DEPLOY_ID|NETLIFY|PULL_REQUEST|REVIEW_ID)$
 
-module:
+ module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
   # workspace: docsy.work
   hugoVersion:
