@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DelightDocs on Delightdocs</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/</link><description>Recent content in DelightDocs on Delightdocs</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://bravoforhappiness.github.io/hugo-test/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>Another Great Release</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%8D%9A%E5%AE%A2/%E4%BF%A1%E6%81%AF%E5%8F%91%E5%B8%83/in-depth-monoliths-detailed-spec/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%8D%9A%E5%AE%A2/%E4%BF%A1%E6%81%AF%E5%8F%91%E5%B8%83/in-depth-monoliths-detailed-spec/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
+be added here, see the &lt;a href="https://bravoforhappiness.github.io/hugo-test/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
+creating technical documentation sites using Docsy, including site customization
+and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
+&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
+specifically designed for technical documentation sets and has a lot of best
+practices built in. Use Docsy to get a working and reliable documentation site
+up and running fast, and then get back to focusing on great content for your
+users. &lt;a href="https://bravoforhappiness.github.io/hugo-test/about"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/search/</guid><description/></item><item><title>Website information</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/site/</guid><description>&lt;p&gt;Site built with &lt;a href="https://github.com/google/docsy/releases/v0.14.2"&gt;&lt;span class="badge bg-primary text-bg-primary fs-6"&gt;Docsy
+v0.14.2 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="build-information"&gt;Build information&lt;a class="td-heading-self-link" href="#build-information" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Netlify build information:&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Attribute&lt;/th&gt;
+ &lt;th&gt;Value&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Netlify built&lt;/td&gt;
+ &lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Deploy context&lt;/td&gt;
+ &lt;td&gt;local&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;script&gt;
+document.addEventListener("DOMContentLoaded", function() {
+ var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
+ var buildDate = new Date("2026-02-26T12:54:56Z");
+ document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
+});
+&lt;/script&gt;</description></item><item><title>关于 Delightdocs</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;link rel="preload" as="image" href="https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/featured-background_hu_3ad615342c077d33.jpg" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/featured-background_hu_47796357cde8fcb0.jpg" media="(min-width: 1200px)"&gt;
+&lt;style&gt;
+#td-cover-block-0 {
+ background-image: url(/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/featured-background_hu_3ad615342c077d33.jpg);
+}
+@media only screen and (min-width: 1200px) {
+ #td-cover-block-0 {
+ background-image: url(/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/featured-background_hu_47796357cde8fcb0.jpg);
+ }
+}
+&lt;/style&gt;
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto td-below-navbar js-td-cover td-overlay td-overlay--dark -bg-dark" &gt;
+ &lt;div class="col-12"&gt;
+ &lt;div class="container td-overlay__inner"&gt;
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;About Goldydocs&lt;/h1&gt;
+ &lt;div class="pt-3 lead"&gt;
+&lt;!-- prettier-ignore --&gt;
+&lt;p class="display-6"&gt;这是一个使用Docsy主题且由Hugo构建的网站！&lt;/p&gt;
+&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-1" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--white position-relative td-box--height-auto"&gt;
+&lt;div class="col-12"&gt;
+&lt;div class="container text-center td-arrow-down"&gt;
+&lt;div class="h4 mb-0"&gt;
+&lt;p&gt;Delightdocs是以Docsy作为主题模板(theme)而构建的hugo网站 &lt;a href="https://github.com/google/docsy"&gt;Docsy&lt;/a&gt;
+Hugo的主题(theme) 你可以通过这个网站直观的感受到这个主题的效果。如果你也想要在你的网站上实现类似的效果
+可以参考docsy主题模板给出的使用向导(&lt;a href="https://www.docsy.dev/docs/get-started/%29"&gt;https://www.docsy.dev/docs/get-started/)&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-2" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--2 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="row text-center h1"&gt;
+&lt;p&gt;这里空空如也~&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;div&gt;&lt;a id="td-block-3" class="td-anchor-no-extra-offset"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--3 td-box--height-auto"&gt;
+&lt;div class="col"&gt;
+&lt;div class="h1"&gt;
+&lt;p&gt;这里也是空空如也~&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</description></item></channel></rss>
