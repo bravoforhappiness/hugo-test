@@ -34,10 +34,22 @@ v0.14.2 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;script&gt;
 document.addEventListener("DOMContentLoaded", function() {
  var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
- var buildDate = new Date("2026-02-27T09:34:52Z");
+ var buildDate = new Date("2026-02-27T09:36:00Z");
  document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
 });
-&lt;/script&gt;</description></item><item><title>关于 Delightdocs</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto td-below-navbar js-td-cover td-overlay td-overlay--dark -bg-dark" &gt;
+&lt;/script&gt;</description></item><item><title>关于 Delightdocs</title><link>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;link rel="preload" as="image" href="https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/feature-background_hu_77c9f2c5809d6bde.jpg" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://bravoforhappiness.github.io/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/feature-background_hu_32efb5460536277e.jpg" media="(min-width: 1200px)"&gt;
+&lt;style&gt;
+#td-cover-block-0 {
+ background-image: url(/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/feature-background_hu_77c9f2c5809d6bde.jpg);
+}
+@media only screen and (min-width: 1200px) {
+ #td-cover-block-0 {
+ background-image: url(/hugo-test/zh-cn/%E5%85%B3%E4%BA%8E/feature-background_hu_32efb5460536277e.jpg);
+ }
+}
+&lt;/style&gt;
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto td-below-navbar js-td-cover td-overlay td-overlay--dark -bg-dark" &gt;
  &lt;div class="col-12"&gt;
  &lt;div class="container td-overlay__inner"&gt;
  &lt;div class="text-center"&gt;
